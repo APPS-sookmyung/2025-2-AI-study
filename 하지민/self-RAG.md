@@ -69,4 +69,4 @@ Ablation & 분석
 
 참고 (Reference)
 Akari Asai, Zeqiu Wu, Yizhong Wang, Avirup Sil, Hannaneh Hajishirzi.
-Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection. arXiv:2310.11511, 2023.
+Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection. arXiv:2310.11511, 2023.[[text](https://arxiv.org/abs/2310.11511)]
